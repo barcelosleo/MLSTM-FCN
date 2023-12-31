@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-files_root = Path(r"C:\Users\leobarc\Documents\MLSTM-FCN\data\metmast")
+files_root = Path(r"/content/MLSTM-FCN/data/metmast")
 
 file = files_root / "kegnes__1991_03_07_09_45__to__1991_06_11_09_35__with_anomaly.csv"
 
